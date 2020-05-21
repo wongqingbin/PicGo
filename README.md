@@ -1,4 +1,4 @@
 # PicGo
-jsDelivr加速PicGo图床 
+jsDelivr加速GitHub图床 
 
 ## https://cdn.jsdelivr.net/gh/wongqingbin/PicGo/myhead.png
